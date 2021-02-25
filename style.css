@@ -41,14 +41,14 @@ p {
   font-size: 1rem;
 }
 
-@media screen and (max-width: 1420px), screen and (max-height: 880px) {
+@media screen and (max-width: 1420px) {
   .plate {
-    height: 90%;
+    height: 75%;
     justify-content: normal;
   }
 }
 
-@media screen and (max-width: 1280px), screen and (max-height: 730px) {
+@media screen and (max-width: 1280px), screen and (max-height: 920px) {
   .plate {
     height: 100%;
     width: 100%;
